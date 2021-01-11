@@ -1,5 +1,10 @@
+# Who we are
 
-# Researchers
+The Causal Incentives Working Group is a collection of researchers, interested in using causal models to understand agents' incentives. We are particularly interested in applying these models to the design of safe and fair AI algorithms.
+
+If you are interested in working on these problems as a collaborator, visitor, or in any other capacity feel free to reach out to us.
+
+# Group members
 
 * **[Tom Everitt](https://www.tomeveritt.se/)**: DeepMind
 * **[Ryan Carey](https://www.fhi.ox.ac.uk/team/ryan-carey/)**: University of Oxford
@@ -20,23 +25,20 @@ AAAI-21
 AAAI-21
 
 **Equilibrium Refinements for Multi-Agent Influence Diagrams: Theory and Practice**
+*L. Hammond, J. Fox, T. Everitt, A. Abate, M. Wooldridge*
+AAMAS-21
 
+**[Modeling AGI safety frameworks with causal influence diagrams](https://arxiv.org/abs/1906.08663)**
+*T. Everitt, R. Kumar, V. Krakovna, S. Legg*
 
-**Modeling AGI safety frameworks with causal influence diagrams**
-**Reward tampering problems and solutions in reinforcement learning: A causal influence diagram perspective**
-**The Incentives that Shape Behavior** [superseded by AI:ACP]
-**Understanding Agent Incentives** [superseded by AI:ACP]
+**[Reward tampering problems and solutions in reinforcement learning: A causal influence diagram perspective](https://arxiv.org/abs/1908.04734)**
+*T. Everitt, M. Hutter*
 
+**[The Incentives that Shape Behavior](https://arxiv.org/abs/2001.07118)**: Superseded by AI:ACP
+**[Understanding Agent Incentives](https://arxiv.org/abs/2001.07118)**: Superseded by AI:ACP
 
+# Software
 
-# ...
-# ...
-# ...
-# ...
+**[CID Latex Package](https://github.com/causalincentives/cid-latex-package)**: A package for drawing professional looking influence diagrams, see [tutorial](https://causalincentives.github.io/cid-latex-package/CausalInfluenceDiagramLatexTutorial.html)
 
-
-Contributors to the Causal Incentives Working Group include **[Tom Everitt](https://www.tomeveritt.se/)** from DeepMind, **[Eric D. Langlois](https://www.linkedin.com/in/edtsft/?ppe=1)** from the University of Toronto, and **[Ryan Carey](https://www.fhi.ox.ac.uk/team/ryan-carey/)**, **[Carolyn Ashurst](https://www.fhi.ox.ac.uk/team/carolyn-ashurst/)**, **[Chris van Merwijk](https://www.fhi.ox.ac.uk/team/chris-van-merwijk/)**, **[Lewis Hammond](http://www.cs.ox.ac.uk/people/lewis.hammond/)**, and **[James Fox](http://www.cs.ox.ac.uk/people/james.fox/)** from the University of Oxford.
-
-
-
-[add pedro or Ramana?]
+**[Python Implementation](https://github.com/causalincentives/cid)**: A Python implementation of causal influence diagrams, building on [pgmpy](https://pgmpy.org/)
