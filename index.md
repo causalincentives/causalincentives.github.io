@@ -1,5 +1,5 @@
 
-# Group members
+# Working group members
 
 * **[Tom Everitt](https://www.tomeveritt.se/)**: DeepMind
 * **[Ryan Carey](https://www.fhi.ox.ac.uk/team/ryan-carey/)**: University of Oxford
