@@ -1,8 +1,3 @@
-# Who we are
-
-The Causal Incentives Working Group is a collection of researchers, interested in using causal models to understand agents' incentives. We are particularly interested in applying these models to the design of safe and fair AI algorithms.
-
-If you are interested in working on these problems as a collaborator, visitor, or in any other capacity feel free to reach out to us.
 
 # Group members
 
@@ -42,3 +37,6 @@ AAMAS-21
 **[CID Latex Package](https://github.com/causalincentives/cid-latex-package)**: A package for drawing professional looking influence diagrams, see [tutorial](https://causalincentives.github.io/cid-latex-package/CausalInfluenceDiagramLatexTutorial.html)
 
 **[Python Implementation](https://github.com/causalincentives/cid)**: A Python implementation of causal influence diagrams, building on [pgmpy](https://pgmpy.org/)
+
+
+If you are interested in working on these problems as a collaborator, visitor, or in any other capacity feel free to reach out to us.
