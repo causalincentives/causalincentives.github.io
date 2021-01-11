@@ -30,10 +30,11 @@ AAMAS-21
 *T. Everitt, M. Hutter*
 
 **[The Incentives that Shape Behavior](https://arxiv.org/abs/2001.07118)**: Superseded by AI:ACP
+
 **[Understanding Agent Incentives](https://arxiv.org/abs/2001.07118)**: Superseded by AI:ACP
 
 # Software
 
-**[CID Latex Package](https://github.com/causalincentives/cid-latex-package)**: A package for drawing professional looking influence diagrams, see [tutorial](https://causalincentives.github.io/cid-latex-package/CausalInfluenceDiagramLatexTutorial.html)
+**[CID Latex Package](https://github.com/causalincentives/cid-latex)**: A package for drawing professional looking influence diagrams, see [tutorial](https://causalincentives.github.io/cid-latex/CausalInfluenceDiagramLatexTutorial.html)
 
-**[Python Implementation](https://github.com/causalincentives/cid)**: A Python implementation of causal influence diagrams, building on [pgmpy](https://pgmpy.org/)
+**[Python Implementation](https://github.com/causalincentives/pycid)**: A Python implementation of causal influence diagrams, building on [pgmpy](https://pgmpy.org/)
