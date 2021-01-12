@@ -15,24 +15,24 @@
 *T. Everitt\*, R. Carey\*, E. Langlois\*, PA. Ortega, S. Legg*.  
 AAAI-21
 
-**How RL Agents Behave When Their Actions Are Modified**: studies how user interventions affect the learning of different RL algorithms.
-*E. Langlois, T. Everitt*.
-AAAI-21
+**How RL Agents Behave When Their Actions Are Modified**: studies how user interventions affect the learning of different RL algorithms.  
+*E. Langlois, T. Everitt*.  
+AAAI-21  
 
-**Equilibrium Refinements for Multi-Agent Influence Diagrams: Theory and Practice**: introduces a notion of _subgame_ in multi-agent (causal) influence diagrams and defines subgame perfect equilibria and other equilibria refinements. The paper also reports on they [pycid](https://github.com/causalincentives/pycid) implementation.
-*L. Hammond, J. Fox, T. Everitt, A. Abate, M. Wooldridge*.
-AAMAS-21
+**Equilibrium Refinements for Multi-Agent Influence Diagrams: Theory and Practice**: introduces a notion of _subgame_ in multi-agent (causal) influence diagrams and defines subgame perfect equilibria and other equilibria refinements. The paper also reports on they [pycid](https://github.com/causalincentives/pycid) implementation.  
+*L. Hammond, J. Fox, T. Everitt, A. Abate, M. Wooldridge*.  
+AAMAS-21  
 
-**[Modeling AGI safety frameworks with causal influence diagrams](https://arxiv.org/abs/1906.08663)**
+**[Modeling AGI safety frameworks with causal influence diagrams](https://arxiv.org/abs/1906.08663)**  
 *T. Everitt, R. Kumar, V. Krakovna, S. Legg*
 
-**[Reward tampering problems and solutions in reinforcement learning: A causal influence diagram perspective](https://arxiv.org/abs/1908.04734)**
+**[Reward tampering problems and solutions in reinforcement learning: A causal influence diagram perspective](https://arxiv.org/abs/1908.04734)**  
 *T. Everitt, M. Hutter*
 
-**[The Incentives that Shape Behavior](https://arxiv.org/abs/2001.07118)**: superseded by AI:ACP. 
+**[The Incentives that Shape Behavior](https://arxiv.org/abs/2001.07118)**: superseded by AI:ACP.  
 *R Carey\*, E Langlois\*, T Everitt, S Legg*
 
-**[Understanding Agent Incentives using Causal Influence Diagrams. Part I: Single Action Settings](https://arxiv.org/abs/1902.09980)**: superseded by AI:ACP.
+**[Understanding Agent Incentives using Causal Influence Diagrams. Part I: Single Action Settings](https://arxiv.org/abs/1902.09980)**: superseded by AI:ACP.  
 *T. Everitt, P.A. Ortega, E. Barnes, S. Legg*
 
 *(\* denotes equal contribution)*
