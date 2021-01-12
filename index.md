@@ -31,7 +31,7 @@ AAMAS-21
 
 **[The Incentives that Shape Behavior](https://arxiv.org/abs/2001.07118)**: Superseded by AI:ACP
 
-**[Understanding Agent Incentives](https://arxiv.org/abs/2001.07118)**: Superseded by AI:ACP
+**[Understanding Agent Incentives using Causal Influence Diagrams. Part I: Single Action Settings](https://arxiv.org/abs/1902.09980)**: Superseded by AI:ACP
 
 # Software
 
