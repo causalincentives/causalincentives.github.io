@@ -15,11 +15,11 @@
 *T. Everitt\*, R. Carey\*, E. Langlois\*, P. Ortega, S. Legg*
 AAAI-21
 
-**How RL Agents Behave When Their Actions Are Modified**
+**How RL Agents Behave When Their Actions Are Modified**: studies how user interventions affect the learning of different RL algorithms.
 *E. Langlois, T. Everitt*
 AAAI-21
 
-**Equilibrium Refinements for Multi-Agent Influence Diagrams: Theory and Practice**
+**Equilibrium Refinements for Multi-Agent Influence Diagrams: Theory and Practice**: introduces a notion of _subgame_ in multi-agent (causal) influence diagrams and defines subgame perfect equilibria and other equilibria refinements. The paper also reports on they [pycid](https://github.com/causalincentives/pycid) implementation.
 *L. Hammond, J. Fox, T. Everitt, A. Abate, M. Wooldridge*
 AAMAS-21
 
