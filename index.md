@@ -32,10 +32,10 @@ AAMAS-21
 **[The Incentives that Shape Behavior](https://arxiv.org/abs/2001.07118)**: superseded by AI:ACP. 
 *R Carey\*, E Langlois\*, T Everitt, S Legg*
 
-**[Understanding Agent Incentives using Causal Influence Diagrams. Part I: Single Action Settings](https://arxiv.org/abs/1902.09980)**: superseded by AI:ACP
+**[Understanding Agent Incentives using Causal Influence Diagrams. Part I: Single Action Settings](https://arxiv.org/abs/1902.09980)**: superseded by AI:ACP.
 *T. Everitt, P.A. Ortega, E. Barnes, S. Legg*
 
-(\* denotes equal contribution)
+*(\* denotes equal contribution)*
 
 # Software
 
