@@ -11,8 +11,8 @@
 
 
 # Papers
-**Agent Incentives: A Causal Perspective**: presents sound and complete graphical criteria for four incentive concepts: value of information, value of control, response incentives, and control incentives.
-*T. Everitt\*, R. Carey\*, E. Langlois\*, P. Ortega, S. Legg*
+**Agent Incentives: A Causal Perspective** (AI:ACP): presents sound and complete graphical criteria for four incentive concepts: value of information, value of control, response incentives, and control incentives.
+*T. Everitt\*, R. Carey\*, E. Langlois\*, PA. Ortega, S. Legg*
 AAAI-21
 
 **How RL Agents Behave When Their Actions Are Modified**: studies how user interventions affect the learning of different RL algorithms.
@@ -29,9 +29,13 @@ AAMAS-21
 **[Reward tampering problems and solutions in reinforcement learning: A causal influence diagram perspective](https://arxiv.org/abs/1908.04734)**
 *T. Everitt, M. Hutter*
 
-**[The Incentives that Shape Behavior](https://arxiv.org/abs/2001.07118)**: Superseded by AI:ACP
+**[The Incentives that Shape Behavior](https://arxiv.org/abs/2001.07118)**: superseded by AI:ACP. 
+*R Carey\*, E Langlois\*, T Everitt, S Legg*
 
-**[Understanding Agent Incentives using Causal Influence Diagrams. Part I: Single Action Settings](https://arxiv.org/abs/1902.09980)**: Superseded by AI:ACP
+**[Understanding Agent Incentives using Causal Influence Diagrams. Part I: Single Action Settings](https://arxiv.org/abs/1902.09980)**: superseded by AI:ACP
+*T. Everitt, P.A. Ortega, E. Barnes, S. Legg*
+
+(\* denotes equal contribution)
 
 # Software
 
