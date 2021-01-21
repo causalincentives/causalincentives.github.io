@@ -26,13 +26,13 @@ AAMAS-21
 **[Modeling AGI safety frameworks with causal influence diagrams](https://arxiv.org/abs/1906.08663)**  
 *T. Everitt, R. Kumar, V. Krakovna, S. Legg*
 
-**[Reward tampering problems and solutions in reinforcement learning: A causal influence diagram perspective](https://arxiv.org/abs/1908.04734)**  
+**[Reward tampering problems and solutions in reinforcement learning: A causal influence diagram perspective](https://arxiv.org/abs/1908.04734)** ([blog](https://medium.com/@deepmindsafetyresearch/designing-agent-incentives-to-avoid-reward-tampering-4380c1bb6cd))  
 *T. Everitt, M. Hutter*
 
-**[The Incentives that Shape Behavior](https://arxiv.org/abs/2001.07118)**: superseded by AI:ACP.  
+**[The Incentives that Shape Behavior](https://arxiv.org/abs/2001.07118)**: superseded by AI:ACP [blog](https://towardsdatascience.com/new-paper-the-incentives-that-shape-behaviour-d6d8bb77d2e4).  
 *R Carey\*, E Langlois\*, T Everitt, S Legg*
 
-**[Understanding Agent Incentives using Causal Influence Diagrams. Part I: Single Action Settings](https://arxiv.org/abs/1902.09980)**: superseded by AI:ACP.  
+**[Understanding Agent Incentives using Causal Influence Diagrams. Part I: Single Action Settings](https://arxiv.org/abs/1902.09980)**: superseded by AI:ACP [blog](https://medium.com/@deepmindsafetyresearch/understanding-agent-incentives-with-causal-influence-diagrams-7262c2512486) .  
 *T. Everitt, P.A. Ortega, E. Barnes, S. Legg*
 
 *(\* denotes equal contribution)*
