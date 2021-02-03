@@ -11,7 +11,7 @@
 
 
 # Papers
-**Agent Incentives: A Causal Perspective** (AI:ACP): presents sound and complete graphical criteria for four incentive concepts: value of information, value of control, response incentives, and control incentives.  
+**[Agent Incentives: A Causal Perspective](https://arxiv.org/abs/2102.01685)** (AI:ACP): presents sound and complete graphical criteria for four incentive concepts: value of information, value of control, response incentives, and control incentives.  
 *T. Everitt\*, R. Carey\*, E. Langlois\*, PA. Ortega, S. Legg*.  
 AAAI-21
 
