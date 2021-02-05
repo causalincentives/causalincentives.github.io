@@ -1,5 +1,5 @@
 
-# Working group members
+## Working group members
 
 * **[Tom Everitt](https://www.tomeveritt.se/)**: DeepMind
 * **[Ryan Carey](https://www.fhi.ox.ac.uk/team/ryan-carey/)**: University of Oxford
@@ -10,7 +10,7 @@
 * **[James Fox](http://www.cs.ox.ac.uk/people/james.fox/)**: University of Oxford
 
 
-# Papers
+## Papers
 **[Agent Incentives: A Causal Perspective](https://arxiv.org/abs/2102.01685)** (AI:ACP): presents sound and complete graphical criteria for four incentive concepts: value of information, value of control, response incentives, and control incentives.  
 *T. Everitt\*, R. Carey\*, E. Langlois\*, PA. Ortega, S. Legg*.  
 AAAI-21
@@ -38,7 +38,7 @@ AAMAS-21
 *(\* denotes equal contribution)*
 
 
-# Blog Posts
+## Blog Posts
  **[Understanding Agent Incentives with Causal Influence Diagrams](https://medium.com/@deepmindsafetyresearch/understanding-agent-incentives-with-causal-influence-diagrams-7262c2512486a)** DeepMind Safety Research
 
  **[New paper: The Incentives that Shape Behaviour](https://towardsdatascience.com/new-paper-the-incentives-that-shape-behaviour-d6d8bb77d2e4)** Towards Data Science
@@ -46,7 +46,7 @@ AAMAS-21
  **[Designing agent incentives to avoid reward tampering](https://medium.com/@deepmindsafetyresearch/designing-agent-incentives-to-avoid-reward-tampering-4380c1bb6cd)** DeepMind Safety Research blog
 
 
-# Software
+## Software
 
 **[CID Latex Package](https://github.com/causalincentives/cid-latex)**: A package for drawing professional looking influence diagrams, see [tutorial](https://causalincentives.github.io/cid-latex/CausalInfluenceDiagramLatexTutorial.html)
 
