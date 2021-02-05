@@ -27,14 +27,6 @@ AAMAS-21
 *(\* denotes equal contribution)*
 
 
-# Blog Posts
- **[Understanding Agent Incentives with Causal Influence Diagrams](https://medium.com/@deepmindsafetyresearch/understanding-agent-incentives-with-causal-influence-diagrams-7262c2512486a)** DeepMind Safety Research
-
- **[New paper: The Incentives that Shape Behaviour](https://towardsdatascience.com/new-paper-the-incentives-that-shape-behaviour-d6d8bb77d2e4)** Towards Data Science
-
- **[Designing agent incentives to avoid reward tampering](https://medium.com/@deepmindsafetyresearch/designing-agent-incentives-to-avoid-reward-tampering-4380c1bb6cd)** DeepMind Safety Research
-
-
 # Software
 
 **[CID Latex Package](https://github.com/causalincentives/cid-latex)**: A package for drawing professional looking influence diagrams, see [tutorial](https://causalincentives.github.io/cid-latex/CausalInfluenceDiagramLatexTutorial.html)
