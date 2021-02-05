@@ -19,7 +19,7 @@ AAAI-21
 *E. Langlois, T. Everitt*.  
 AAAI-21  
 
-**Equilibrium Refinements for Multi-Agent Influence Diagrams: Theory and Practice**: introduces a notion of _subgame_ in multi-agent (causal) influence diagrams and defines subgame perfect equilibria and other equilibria refinements. The paper also reports on they [pycid](https://github.com/causalincentives/pycid) implementation.  
+**Equilibrium Refinements for Multi-Agent Influence Diagrams: Theory and Practice**: introduces a notion of _subgame_ in multi-agent (causal) influence diagrams and defines subgame perfect equilibria. The paper also reports on [pycid](https://github.com/causalincentives/pycid).  
 *L. Hammond, J. Fox, T. Everitt, A. Abate, M. Wooldridge*.  
 AAMAS-21  
 
@@ -36,6 +36,15 @@ AAMAS-21
 *T. Everitt, P.A. Ortega, E. Barnes, S. Legg*
 
 *(\* denotes equal contribution)*
+
+
+# Blog Posts
+ **[Understanding Agent Incentives with Causal Influence Diagrams](https://medium.com/@deepmindsafetyresearch/understanding-agent-incentives-with-causal-influence-diagrams-7262c2512486a)** DeepMind Safety Research
+
+ **[New paper: The Incentives that Shape Behaviour](https://towardsdatascience.com/new-paper-the-incentives-that-shape-behaviour-d6d8bb77d2e4)** Towards Data Science
+
+ **[Designing agent incentives to avoid reward tampering](https://medium.com/@deepmindsafetyresearch/designing-agent-incentives-to-avoid-reward-tampering-4380c1bb6cd)** DeepMind Safety Research blog
+
 
 # Software
 
