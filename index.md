@@ -1,15 +1,4 @@
 
-# Working group members
-
-* **[Tom Everitt](https://www.tomeveritt.se/)**: DeepMind
-* **[Ryan Carey](https://www.fhi.ox.ac.uk/team/ryan-carey/)**: University of Oxford
-* **[Eric D. Langlois](https://www.linkedin.com/in/edtsft/?ppe=1)**: University of Toronto
-* **[Carolyn Ashurst](https://www.fhi.ox.ac.uk/team/carolyn-ashurst/)**: Future of Humanity Institute, University of Oxford
-* **[Chris van Merwijk](https://www.fhi.ox.ac.uk/team/chris-van-merwijk/)**: Future of Humanity Institute, University of Oxford
-* **[Lewis Hammond](http://www.cs.ox.ac.uk/people/lewis.hammond/)**: University of Oxford
-* **[James Fox](http://www.cs.ox.ac.uk/people/james.fox/)**: University of Oxford
-
-
 # Papers
 **[Agent Incentives: A Causal Perspective](https://arxiv.org/abs/2102.01685)** (AI:ACP): presents sound and complete graphical criteria for four incentive concepts: value of information, value of control, response incentives, and control incentives.  
 *T. Everitt\*, R. Carey\*, E. Langlois\*, PA. Ortega, S. Legg*.  
@@ -51,3 +40,14 @@ AAMAS-21
 **[CID Latex Package](https://github.com/causalincentives/cid-latex)**: A package for drawing professional looking influence diagrams, see [tutorial](https://causalincentives.github.io/cid-latex/CausalInfluenceDiagramLatexTutorial.html)
 
 **[pycid](https://github.com/causalincentives/pycid)**: A Python implementation of causal influence diagrams, built on [pgmpy](https://pgmpy.org/)
+
+
+# Working group members
+
+* **[Tom Everitt](https://www.tomeveritt.se/)**: DeepMind
+* **[Ryan Carey](https://www.fhi.ox.ac.uk/team/ryan-carey/)**: University of Oxford
+* **[Eric D. Langlois](https://www.linkedin.com/in/edtsft/?ppe=1)**: University of Toronto
+* **[Carolyn Ashurst](https://www.fhi.ox.ac.uk/team/carolyn-ashurst/)**: Future of Humanity Institute, University of Oxford
+* **[Chris van Merwijk](https://www.fhi.ox.ac.uk/team/chris-van-merwijk/)**: Future of Humanity Institute, University of Oxford
+* **[Lewis Hammond](http://www.cs.ox.ac.uk/people/lewis.hammond/)**: University of Oxford
+* **[James Fox](http://www.cs.ox.ac.uk/people/james.fox/)**: University of Oxford
