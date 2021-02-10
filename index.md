@@ -8,8 +8,8 @@ AAAI-21
 *E. Langlois, T. Everitt*.  
 AAAI-21  
 
-**Equilibrium Refinements for Multi-Agent Influence Diagrams: Theory and Practice**: introduces a notion of _subgame_ in multi-agent (causal) influence diagrams and defines subgame perfect equilibria. The paper also reports on [pycid](https://github.com/causalincentives/pycid).  
-*J. Fox, L. Hammond, T. Everitt, A. Abate, M. Wooldridge*.  
+**[Equilibrium Refinements for Multi-Agent Influence Diagrams: Theory and Practice](https://arxiv.org/abs/2102.05008)**: introduces a notion of subgames in multi-agent (causal) influence diagrams, alongside classic equilibrium refinements. The paper also reports on [pycid](https://github.com/causalincentives/pycid).  
+*L. Hammond, J. Fox, T. Everitt, A. Abate, M. Wooldridge*.  
 AAMAS-21  
 
 **[Modeling AGI safety frameworks with causal influence diagrams](https://arxiv.org/abs/1906.08663)**  
