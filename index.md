@@ -4,7 +4,7 @@
 *T. Everitt\*, R. Carey\*, E. Langlois\*, PA. Ortega, S. Legg*.  
 AAAI-21
 
-**How RL Agents Behave When Their Actions Are Modified**: studies how user interventions affect the learning of different RL algorithms.  
+**[How RL Agents Behave When Their Actions Are Modified](https://arxiv.org/abs/2102.07716)**: studies how user interventions affect the learning of different RL algorithms.  
 *E. Langlois, T. Everitt*.  
 AAAI-21  
 
