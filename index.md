@@ -29,9 +29,10 @@ AAMAS-21
 
 # Software
 
+**[pycid](https://github.com/causalincentives/pycid)**: A Python implementation of causal influence diagrams, built on [pgmpy](https://pgmpy.org/)
+
 **[CID Latex Package](https://github.com/causalincentives/cid-latex)**: A package for drawing professional looking influence diagrams, see [tutorial](https://causalincentives.github.io/cid-latex/CausalInfluenceDiagramLatexTutorial.html)
 
-**[pycid](https://github.com/causalincentives/pycid)**: A Python implementation of causal influence diagrams, built on [pgmpy](https://pgmpy.org/)
 
 
 # Working group members
