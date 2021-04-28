@@ -8,11 +8,11 @@ AAAI-21
 *E. Langlois, T. Everitt*.  
 AAAI-21  
 
-**[Equilibrium Refinements for Multi-Agent Influence Diagrams: Theory and Practice](https://arxiv.org/abs/2102.05008)**: introduces a notion of subgames in multi-agent (causal) influence diagrams, alongside classic equilibrium refinements. The paper also reports on [pycid](https://github.com/causalincentives/pycid).  
+**[Equilibrium Refinements for Multi-Agent Influence Diagrams: Theory and Practice](https://arxiv.org/abs/2102.05008)** ([video](https://slideslive.com/38954945/equilibrium-refinements-for-multiagent-influence-diagrams-theory-and-practice)): introduces a notion of subgames in multi-agent (causal) influence diagrams, alongside classic equilibrium refinements. The paper also reports on [pycid](https://github.com/causalincentives/pycid).  
 *L. Hammond, J. Fox, T. Everitt, A. Abate, M. Wooldridge*.  
 AAMAS-21  
 
-**[Reward tampering problems and solutions in reinforcement learning: A causal influence diagram perspective](https://arxiv.org/abs/1908.04734)** ([summary](https://medium.com/@deepmindsafetyresearch/designing-agent-incentives-to-avoid-reward-tampering-4380c1bb6cd))  analyzes various reward tampering (aka "wireheading") problems with causal influence diagrams.  
+**[Reward tampering problems and solutions in reinforcement learning: A causal influence diagram perspective](https://arxiv.org/abs/1908.04734)** ([summary](https://medium.com/@deepmindsafetyresearch/designing-agent-incentives-to-avoid-reward-tampering-4380c1bb6cd)): analyzes various reward tampering (aka "wireheading") problems with causal influence diagrams.  
 *T. Everitt, M. Hutter, R. Kumar, V. Krakovna*  
 Accepted to Synthese, 2021
 
@@ -20,10 +20,10 @@ Accepted to Synthese, 2021
 *T. Everitt, R. Kumar, V. Krakovna, S. Legg*  
 IJCAI AI Safety Workshop, 2019
 
-**[The Incentives that Shape Behavior](https://arxiv.org/abs/2001.07118)**: superseded by AI:ACP ([summary](https://towardsdatascience.com/new-paper-the-incentives-that-shape-behaviour-d6d8bb77d2e4)).  
+**[The Incentives that Shape Behavior](https://arxiv.org/abs/2001.07118)** ([summary](https://towardsdatascience.com/new-paper-the-incentives-that-shape-behaviour-d6d8bb77d2e4)): superseded by AI:ACP.  
 *R Carey\*, E Langlois\*, T Everitt, S Legg*
 
-**[Understanding Agent Incentives using Causal Influence Diagrams. Part I: Single Action Settings](https://arxiv.org/abs/1902.09980)**: superseded by AI:ACP ([summary](https://medium.com/@deepmindsafetyresearch/understanding-agent-incentives-with-causal-influence-diagrams-7262c2512486)) .  
+**[Understanding Agent Incentives using Causal Influence Diagrams. Part I: Single Action Settings](https://arxiv.org/abs/1902.09980)** ([summary](https://medium.com/@deepmindsafetyresearch/understanding-agent-incentives-with-causal-influence-diagrams-7262c2512486)): superseded by AI:ACP.  
 *T. Everitt, P.A. Ortega, E. Barnes, S. Legg*
 
 *(\* denotes equal contribution)*
@@ -31,9 +31,9 @@ IJCAI AI Safety Workshop, 2019
 
 # Software
 
-**[pycid](https://github.com/causalincentives/pycid)**: A Python implementation of causal influence diagrams, built on [pgmpy](https://pgmpy.org/)
+**[pycid](https://github.com/causalincentives/pycid)**: A Python implementation of causal influence diagrams, built on [pgmpy](https://pgmpy.org/).
 
-**[CID Latex Package](https://github.com/causalincentives/cid-latex)**: A package for drawing professional looking influence diagrams, see [tutorial](https://causalincentives.github.io/cid-latex/CausalInfluenceDiagramLatexTutorial.html)
+**[CID Latex Package](https://github.com/causalincentives/cid-latex)**: A package for drawing professional looking influence diagrams, see [tutorial](https://causalincentives.github.io/cid-latex/CausalInfluenceDiagramLatexTutorial.html).
 
 
 
