@@ -14,7 +14,7 @@ AAMAS-21
 
 **[Reward tampering problems and solutions in reinforcement learning: A causal influence diagram perspective](https://arxiv.org/abs/1908.04734)** ([summary](https://medium.com/@deepmindsafetyresearch/designing-agent-incentives-to-avoid-reward-tampering-4380c1bb6cd)): analyzes various reward tampering (aka "wireheading") problems with causal influence diagrams.  
 *T. Everitt, M. Hutter, R. Kumar, V. Krakovna*  
-Accepted to Synthese, 2021
+Synthese, 2021
 
 **[Modeling AGI safety frameworks with causal influence diagrams](https://arxiv.org/abs/1906.08663)**  
 *T. Everitt, R. Kumar, V. Krakovna, S. Legg*  
