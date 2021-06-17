@@ -31,7 +31,7 @@ IJCAI AI Safety Workshop, 2019
 
 # Software
 
-**[pycid](https://github.com/causalincentives/pycid)**: A Python implementation of causal influence diagrams, built on [pgmpy](https://pgmpy.org/).
+**[PyCID](https://github.com/causalincentives/pycid)**: A Python library for causal influence diagrams, built on [pgmpy](https://pgmpy.org/).
 
 **[CID Latex Package](https://github.com/causalincentives/cid-latex)**: A package for drawing professional looking influence diagrams, see [tutorial](https://causalincentives.github.io/cid-latex/CausalInfluenceDiagramLatexTutorial.html).
 
