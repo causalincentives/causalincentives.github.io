@@ -1,14 +1,14 @@
 
 # Papers
-**[Agent Incentives: A Causal Perspective](https://arxiv.org/abs/2102.01685)** (AI:ACP): presents sound and complete graphical criteria for four incentive concepts: value of information, value of control, response incentives, and control incentives.  
+**[Agent Incentives: A Causal Perspective](https://arxiv.org/abs/2102.01685)** (AI:ACP) ([summary](https://deepmindsafetyresearch.medium.com/progress-on-causal-influence-diagrams-a7a32180b0d1#b09d)): presents sound and complete graphical criteria for four incentive concepts: value of information, value of control, response incentives, and control incentives.  
 *T. Everitt\*, R. Carey\*, E. Langlois\*, PA. Ortega, S. Legg*.  
 AAAI-21
 
-**[How RL Agents Behave When Their Actions Are Modified](https://arxiv.org/abs/2102.07716)**: studies how user interventions affect the learning of different RL algorithms.  
+**[How RL Agents Behave When Their Actions Are Modified](https://arxiv.org/abs/2102.07716)** ([summary](https://deepmindsafetyresearch.medium.com/progress-on-causal-influence-diagrams-a7a32180b0d1#3a5e)): studies how user interventions affect the learning of different RL algorithms.  
 *E. Langlois, T. Everitt*.  
 AAAI-21  
 
-**[Equilibrium Refinements for Multi-Agent Influence Diagrams: Theory and Practice](https://arxiv.org/abs/2102.05008)** ([video](https://slideslive.com/38954945/equilibrium-refinements-for-multiagent-influence-diagrams-theory-and-practice)): introduces a notion of subgames in multi-agent (causal) influence diagrams, alongside classic equilibrium refinements. The paper also reports on [pycid](https://github.com/causalincentives/pycid).  
+**[Equilibrium Refinements for Multi-Agent Influence Diagrams: Theory and Practice](https://arxiv.org/abs/2102.05008)** ([video](https://slideslive.com/38954945/equilibrium-refinements-for-multiagent-influence-diagrams-theory-and-practice), [summary](https://deepmindsafetyresearch.medium.com/progress-on-causal-influence-diagrams-a7a32180b0d1#0e30)): introduces a notion of subgames in multi-agent (causal) influence diagrams, alongside classic equilibrium refinements. The paper also reports on [pycid](https://github.com/causalincentives/pycid).  
 *L. Hammond, J. Fox, T. Everitt, A. Abate, M. Wooldridge*.  
 AAMAS-21  
 
