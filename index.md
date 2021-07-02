@@ -12,7 +12,7 @@ AAAI-21
 *L. Hammond, J. Fox, T. Everitt, A. Abate, M. Wooldridge*.  
 AAMAS-21  
 
-**[Reward tampering problems and solutions in reinforcement learning: A causal influence diagram perspective](https://arxiv.org/abs/1908.04734)** ([summary](https://medium.com/@deepmindsafetyresearch/designing-agent-incentives-to-avoid-reward-tampering-4380c1bb6cd)): analyzes various reward tampering (aka "wireheading") problems with causal influence diagrams.  
+**[Reward tampering problems and solutions in reinforcement learning: A causal influence diagram perspective](https://arxiv.org/abs/1908.04734)** ([summary](https://medium.com/@deepmindsafetyresearch/designing-agent-incentives-to-avoid-reward-tampering-4380c1bb6cd), [summary 2](https://deepmindsafetyresearch.medium.com/progress-on-causal-influence-diagrams-a7a32180b0d1#4e50)): analyzes various reward tampering (aka "wireheading") problems with causal influence diagrams.  
 *T. Everitt, M. Hutter, R. Kumar, V. Krakovna*  
 Synthese, 2021
 
