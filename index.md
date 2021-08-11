@@ -8,7 +8,7 @@ AAAI-21
 *E. Langlois, T. Everitt*.  
 AAAI-21  
 
-**[Equilibrium Refinements for Multi-Agent Influence Diagrams: Theory and Practice](https://arxiv.org/abs/2102.05008)** ([video](https://slideslive.com/38954945/equilibrium-refinements-for-multiagent-influence-diagrams-theory-and-practice), [summary](https://deepmindsafetyresearch.medium.com/progress-on-causal-influence-diagrams-a7a32180b0d1#0e30)): introduces a notion of subgames in multi-agent (causal) influence diagrams, alongside classic equilibrium refinements. The paper also reports on [pycid](https://github.com/causalincentives/pycid).  
+**[Equilibrium Refinements for Multi-Agent Influence Diagrams: Theory and Practice](https://arxiv.org/abs/2102.05008)** ([video](https://slideslive.com/38954945/equilibrium-refinements-for-multiagent-influence-diagrams-theory-and-practice), [summary](https://deepmindsafetyresearch.medium.com/progress-on-causal-influence-diagrams-a7a32180b0d1#0e30)): introduces a notion of subgames in multi-agent (causal) influence diagrams, alongside classic equilibrium refinements.  
 *L. Hammond, J. Fox, T. Everitt, A. Abate, M. Wooldridge*.  
 AAMAS-21  
 
