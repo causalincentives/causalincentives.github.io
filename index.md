@@ -16,6 +16,10 @@ AAMAS-21
 *T. Everitt, M. Hutter, R. Kumar, V. Krakovna*  
 Synthese, 2021
 
+**[PyCID: A Python Library for Causal Influence Diagrams](http://conference.scipy.org/proceedings/scipy2021/pdfs/james_fox.pdf)** [github](https://github.com/causalincentives/pycid): describes our Python package for analyzing (multi-agent) causal influence diagrams.  
+*J. Fox, T. Everitt, R. Carey, E. Langlois, A. Abate, M. Wooldridge*  
+SciPy, 2021
+
 **[Modeling AGI safety frameworks with causal influence diagrams](https://arxiv.org/abs/1906.08663)**  
 *T. Everitt, R. Kumar, V. Krakovna, S. Legg*  
 IJCAI AI Safety Workshop, 2019
