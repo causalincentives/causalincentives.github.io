@@ -53,3 +53,4 @@ IJCAI AI Safety Workshop, 2019
 * **[Zac Kenton](https://zackenton.github.io/)**: DeepMind
 * **[Ramana Kumar](https://scholar.google.co.uk/citations?user=OyX1-qYAAAAJ&hl=en)**: DeepMind
 * **[Sebastian Farquhar](https://sebastianfarquhar.com/)**: University of Oxford, DeepMind
+* **[Jon Richens](https://scholar.google.com/citations?user=VtfYF3EAAAAJ&hl=en)**: DeepMind
