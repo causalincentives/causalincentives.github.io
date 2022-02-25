@@ -9,7 +9,7 @@ AAAI-22
 
 **[Why Fair Labels Can Yield Unfair Predictions: Graphical Conditions for Introduced Unfairness:
 ](https://arxiv.org/abs/2202.10816)** 
-Takes an incentive perspective on fairness, asking when predictors are incentivised to more unfair than the labels they were trained from.  
+When is unfairness incentivised? Perhaps surprisingly, unfairness can be incentivized even when labels are completely fair.  
 *Carolyn Ashurst, Ryan Carey, Silvia Chiappa, Tom Everitt*  
 AAAI-22
 
