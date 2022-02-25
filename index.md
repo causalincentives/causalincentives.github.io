@@ -1,5 +1,18 @@
 
 # Papers
+**[A Complete Criterion for Value of Information in Soluble Influence Diagrams
+](https://arxiv.org/abs/2202.11629)**
+Presents a complete graphical criterion for value of information in influence diagrams with more than one decision node, along with ID homorphisms and trees of systems.  
+*Chris van Merwijk, Ryan Carey, Tom Everitt*
+AAAI-22
+
+
+**[Why Fair Labels Can Yield Unfair Predictions: Graphical Conditions for Introduced Unfairness
+](https://arxiv.org/abs/2202.10816)** 
+Takes an incentive perspective on fairness, asking when predictors are incentivised to more unfair than the labels they were trained from.  
+*Carolyn Ashurst, Ryan Carey, Silvia Chiappa, Tom Everitt*  
+AAAI-22
+
 **[Agent Incentives: A Causal Perspective](https://arxiv.org/abs/2102.01685)** (AI:ACP) ([summary](https://deepmindsafetyresearch.medium.com/progress-on-causal-influence-diagrams-a7a32180b0d1#b09d)): presents sound and complete graphical criteria for four incentive concepts: value of information, value of control, response incentives, and control incentives.  
 *T. Everitt\*, R. Carey\*, E. Langlois\*, PA. Ortega, S. Legg*.  
 AAAI-21
