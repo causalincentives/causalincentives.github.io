@@ -3,7 +3,7 @@
 **[A Complete Criterion for Value of Information in Soluble Influence Diagrams:
 ](https://arxiv.org/abs/2202.11629)**
 Presents a complete graphical criterion for value of information in influence diagrams with more than one decision node, along with ID homorphisms and trees of systems.  
-*Chris van Merwijk, Ryan Carey, Tom Everitt*  
+*Chris van Merwijk\*, Ryan Carey\*, Tom Everitt*  
 AAAI-22
 
 
