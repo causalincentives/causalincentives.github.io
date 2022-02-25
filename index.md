@@ -13,7 +13,7 @@ When is unfairness incentivised? Perhaps surprisingly, unfairness can be incenti
 *Carolyn Ashurst, Ryan Carey, Silvia Chiappa, Tom Everitt*  
 AAAI-22
 
-**[Agent Incentives: A Causal Perspective](https://arxiv.org/abs/2102.01685)** (AI:ACP) ([summary](https://deepmindsafetyresearch.medium.com/progress-on-causal-influence-diagrams-a7a32180b0d1#b09d)): presents sound and complete graphical criteria for four incentive concepts: value of information, value of control, response incentives, and control incentives.  
+**[Agent Incentives: A Causal Perspective](https://arxiv.org/abs/2102.01685)** (AI:ACP) ([summary](https://deepmindsafetyresearch.medium.com/progress-on-causal-influence-diagrams-a7a32180b0d1#b09d)): An agent's incentives are largely determined by the causal context in which it is situated. This paper gives sound and complete graphical criteria for four incentive concepts: value of information, value of control, response incentives, and control incentives.  
 *T. Everitt\*, R. Carey\*, E. Langlois\*, PA. Ortega, S. Legg*.  
 AAAI-21
 
