@@ -17,7 +17,7 @@ AAAI-22
 *T. Everitt\*, R. Carey\*, E. Langlois\*, PA. Ortega, S. Legg*.  
 AAAI-21
 
-**[How RL Agents Behave When Their Actions Are Modified](https://arxiv.org/abs/2102.07716)** ([summary](https://deepmindsafetyresearch.medium.com/progress-on-causal-influence-diagrams-a7a32180b0d1#3a5e)): studies how user interventions affect the learning of different RL algorithms.  
+**[How RL Agents Behave When Their Actions Are Modified](https://arxiv.org/abs/2102.07716)** ([summary](https://deepmindsafetyresearch.medium.com/progress-on-causal-influence-diagrams-a7a32180b0d1#3a5e)): RL algorithms like Q-learning and SARSA make different causal assumptions about their environment. These assumptions determine how user interventions affect the learnt policy.  
 *E. Langlois, T. Everitt*.  
 AAAI-21  
 
