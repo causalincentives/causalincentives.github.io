@@ -2,7 +2,7 @@
 # Papers
 
 **[Path-Specific Objectives for Safer Agent Incentives](https://arxiv.org/abs/2204.10018)**
-How do you tell an ML system to optimise an objective, but not by any means? E.g. optimize user engagement (R) without manipulating the user?  
+How do you tell an ML system to optimise an objective, but not by any means? E.g. optimize user engagement without manipulating the user?  
 *Sebastian Farquhar, Ryan Carey, Tom Everitt*  
 AAAI-22
 
