@@ -1,14 +1,18 @@
 
 # Papers
-**[A Complete Criterion for Value of Information in Soluble Influence Diagrams:
-](https://arxiv.org/abs/2202.11629)**
+
+**[Path-Specific Objectives for Safer Agent Incentives](https://arxiv.org/abs/2204.10018)**
+How do you tell an ML system to optimise an objective, but not by any means? E.g. optimize user engagement (R) without manipulating the user?  
+*Sebastian Farquhar, Ryan Carey, Tom Everitt*  
+AAAI-22
+
+**[A Complete Criterion for Value of Information in Soluble Influence Diagrams](https://arxiv.org/abs/2202.11629)**
 Presents a complete graphical criterion for value of information in influence diagrams with more than one decision node, along with ID homorphisms and trees of systems.  
 *Chris van Merwijk\*, Ryan Carey\*, Tom Everitt*  
 AAAI-22
 
 
-**[Why Fair Labels Can Yield Unfair Predictions: Graphical Conditions for Introduced Unfairness:
-](https://arxiv.org/abs/2202.10816)** 
+**[Why Fair Labels Can Yield Unfair Predictions: Graphical Conditions for Introduced Unfairness](https://arxiv.org/abs/2202.10816)** 
 When is unfairness incentivised? Perhaps surprisingly, unfairness can be incentivized even when labels are completely fair.  
 *Carolyn Ashurst, Ryan Carey, Silvia Chiappa, Tom Everitt*  
 AAAI-22
