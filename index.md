@@ -69,7 +69,7 @@ IJCAI AI Safety Workshop, 2019
 * **[Ryan Carey](https://www.fhi.ox.ac.uk/team/ryan-carey/)**: University of Oxford
 * **[Eric D. Langlois](https://www.linkedin.com/in/edtsft/?ppe=1)**: University of Toronto
 * **[Carolyn Ashurst](https://www.fhi.ox.ac.uk/team/carolyn-ashurst/)**: Alan Turing Institute
-* **[Chris van Merwijk](https://www.fhi.ox.ac.uk/team/chris-van-merwijk/)**: Future of Humanity Institute, University of Oxford
+* **[Chris van Merwijk](https://www.fhi.ox.ac.uk/team/chris-van-merwijk/)**: Carnegie Mellon University
 * **[Lewis Hammond](http://www.cs.ox.ac.uk/people/lewis.hammond/)**: University of Oxford
 * **[James Fox](http://www.cs.ox.ac.uk/people/james.fox/)**: University of Oxford
 * **[Zac Kenton](https://zackenton.github.io/)**: DeepMind
