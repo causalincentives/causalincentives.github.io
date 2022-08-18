@@ -1,6 +1,11 @@
 
 # Papers
 
+**[Discovering Agents](https://arxiv.org/abs/2208.08345)** ([summary](https://www.alignmentforum.org/posts/XxX2CAoFskuQNkBDy/discovering-agents)):
+A new causal definition of agency that allows us to discover whether an agent is present in a system. This leads to better causal modelling of AI agents and their incentives, improving the safety analysis of a system before training it.  
+*Zachary Kenton, Ramana Kumar, Sebastian Farquhar, Jonathan Richens, Matt MacDermott, Tom Everitt*  
+arXiv, 2022
+
 **[Reasoning about Causality in Games](https://drive.google.com/file/d/1_OBLw9u29FrqROsLfhO6rIaWGK4xJ3il/view?usp=sharing)**:
 Introduces (structural) causal games, a single modelling framework that allows for both causal and game-theoretic reasoning.  
 *Lewis Hammond, James Fox, Tom Everitt, Alessandro Abate, Michael Wooldridge*  
