@@ -2,7 +2,7 @@
 # Papers
 
 **[Discovering Agents](https://arxiv.org/abs/2208.08345)** ([summary](https://www.alignmentforum.org/posts/XxX2CAoFskuQNkBDy/discovering-agents)):
-A new causal definition of agency that allows us to discover whether an agent is present in a system. This leads to better causal modelling of AI agents and their incentives, improving the safety analysis of a system before training it.  
+A new causal definition of agency that allows us to discover whether an agent is present in a system, leading to better causal modelling of AI agents and their incentives.  
 *Zachary Kenton, Ramana Kumar, Sebastian Farquhar, Jonathan Richens, Matt MacDermott, Tom Everitt*  
 arXiv, 2022
 
