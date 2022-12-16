@@ -14,7 +14,7 @@ Forthcoming, 2022
 **[Counterfactual Harm](https://arxiv.org/abs/2204.12993)**:
 Agents must have a causal understanding of the world, in order to robustly minimize harm across distributional shifts.  
 *Jonathan G. Richens, Rory Beard, Daniel H. Thompson*  
-arXiv, 2022
+Neurips, 2022
 
 **[Path-Specific Objectives for Safer Agent Incentives](https://arxiv.org/abs/2204.10018)**:
 How do you tell an ML system to optimise an objective, but not by any means? E.g. optimize user engagement without manipulating the user?  
