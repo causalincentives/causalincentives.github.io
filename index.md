@@ -6,7 +6,7 @@ A new causal definition of agency that allows us to discover whether an agent is
 *Zachary Kenton, Ramana Kumar, Sebastian Farquhar, Jonathan Richens, Matt MacDermott, Tom Everitt*  
 arXiv, 2022
 
-**[Reasoning about Causality in Games](https://drive.google.com/file/d/1_OBLw9u29FrqROsLfhO6rIaWGK4xJ3il/view?usp=sharing)**:
+**[Reasoning about Causality in Games](https://arxiv.org/abs/2301.02324)**:
 Introduces (structural) causal games, a single modelling framework that allows for both causal and game-theoretic reasoning.  
 *Lewis Hammond, James Fox, Tom Everitt, Alessandro Abate, Michael Wooldridge*  
 Forthcoming, 2022
