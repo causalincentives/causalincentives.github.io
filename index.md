@@ -9,7 +9,7 @@ arXiv, 2022
 **[Reasoning about Causality in Games](https://arxiv.org/abs/2301.02324)**:
 Introduces (structural) causal games, a single modelling framework that allows for both causal and game-theoretic reasoning.  
 *Lewis Hammond, James Fox, Tom Everitt, Alessandro Abate, Michael Wooldridge*  
-Forthcoming, 2022
+arXiv, 2023
 
 **[Counterfactual Harm](https://arxiv.org/abs/2204.12993)**:
 Agents must have a causal understanding of the world, in order to robustly minimize harm across distributional shifts.  
