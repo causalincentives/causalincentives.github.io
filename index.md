@@ -3,7 +3,7 @@
 
 **[Towards Causal Foundations of Safe AI](pdfs/AAAI-Tutorial-2023-Towards-Causal-Foundations-of-Safe-AI.pdf)**  
 *Tom Everitt, Lewis Hammond, Jon Richens*  
-AAAI, 2023.
+AAAI, 2023
 
 # Papers
 
