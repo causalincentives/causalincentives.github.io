@@ -1,10 +1,3 @@
-
-# Tutorials
-
-**[Towards Causal Foundations of Safe AI](pdfs/AAAI-Tutorial-2023-Towards-Causal-Foundations-of-Safe-AI.pdf)**  
-*Tom Everitt, Lewis Hammond, Jon Richens*  
-AAAI, 2023
-
 # Papers
 
 **[Discovering Agents](https://arxiv.org/abs/2208.08345)** ([summary](https://www.alignmentforum.org/posts/XxX2CAoFskuQNkBDy/discovering-agents)):
