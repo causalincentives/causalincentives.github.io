@@ -1,10 +1,8 @@
 # Papers
-<!---
 **[Human Control: Definitions and Algorithms](https://drive.google.com/file/d/19SNf8cBVsbt8gZXXyFVK1RaBk_FmalT7/view?usp=sharing)**:
 We study corrigibility, an alternative called counterfactual vigilance, the assurances they offer for human autonomy, and the algorithms that can be used to obtain them.
 *Ryan Carey, Tom Everitt*  
 In submission, 2022
--->
 
 **[Discovering Agents](https://arxiv.org/abs/2208.08345)** ([summary](https://www.alignmentforum.org/posts/XxX2CAoFskuQNkBDy/discovering-agents)):
 A new causal definition of agency that allows us to discover whether an agent is present in a system, leading to better causal modelling of AI agents and their incentives.  
