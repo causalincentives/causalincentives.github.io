@@ -1,6 +1,6 @@
 # Papers
 **[Human Control: Definitions and Algorithms](https://drive.google.com/file/d/19SNf8cBVsbt8gZXXyFVK1RaBk_FmalT7/view?usp=sharing)**:
-We study corrigibility, an alternative called counterfactual vigilance, the assurances they offer for human autonomy, and the algorithms that can be used to obtain them
+We study corrigibility, an alternative called counterfactual vigilance, the assurances they offer for human autonomy, and the algorithms that can be used to obtain them.
 *Ryan Carey, Tom Everitt*  
 In submission, 2022
 
