@@ -88,3 +88,10 @@ IJCAI AI Safety Workshop, 2019
 * **[Sebastian Farquhar](https://sebastianfarquhar.com/)**: University of Oxford, DeepMind
 * **[Jon Richens](https://scholar.google.com/citations?user=VtfYF3EAAAAJ&hl=en)**: DeepMind
 * **[Francis Rhys Ward](https://safeandtrustedai.org/person/francis-rhys-ward/)**: Imperial College
+* **[Matt MacDermott](https://safeandtrustedai.org/person/matt-macdermott/)**: Imperial College
+* **[David Reber](https://www.davidpreber.com/publications/11411)**: University of Chicago
+* **[Shresth Malik](https://www.cs.ox.ac.uk/people/shreshth.malik/)**: University of Oxford
+* **[Milad Kazemi](https://scholar.google.com/citations?user=vNOC5lAAAAAJ&hl=en)**: University College London
+* **[Catalin Mitelut](https://www.linkedin.com/in/catalin-mitelut-9436131a5)**: Zurich
+* **[Sebastian Benthall](https://sbenthall.net/)**: New York University
+* **[Philipp Lippe](https://phlippe.github.io/)**: University of Amsterdam
