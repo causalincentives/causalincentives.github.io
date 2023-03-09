@@ -11,7 +11,7 @@ arXiv, 2022
 
 **[Reasoning about Causality in Games](https://arxiv.org/abs/2301.02324)**:
 Introduces (structural) causal games, a single modelling framework that allows for both causal and game-theoretic reasoning.  
-*Lewis Hammond, James Fox, Tom Everitt, Alessandro Abate, Michael Wooldridge*  
+*Lewis Hammond, James Fox, Tom Everitt, Ryan Carey, Alessandro Abate, Michael Wooldridge*  
 Artificial Intelligence, 2023
 
 **[Counterfactual Harm](https://arxiv.org/abs/2204.12993)**:
