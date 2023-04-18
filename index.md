@@ -9,10 +9,10 @@ A new causal definition of agency that allows us to discover whether an agent is
 *Zachary Kenton, Ramana Kumar, Sebastian Farquhar, Jonathan Richens, Matt MacDermott, Tom Everitt*  
 arXiv, 2022
 
-**[Reasoning about Causality in Games](https://arxiv.org/abs/2301.02324)**:
+**[Reasoning about Causality in Games](https://arxiv.org/abs/2301.02324)** ([tweet thread](https://twitter.com/tom4everitt/status/1648344677702066177)):
 Introduces (structural) causal games, a single modelling framework that allows for both causal and game-theoretic reasoning.  
 *Lewis Hammond, James Fox, Tom Everitt, Ryan Carey, Alessandro Abate, Michael Wooldridge*  
-Artificial Intelligence, 2023
+Artificial Intelligence Journal, 2023
 
 **[Counterfactual Harm](https://arxiv.org/abs/2204.12993)**:
 Agents must have a causal understanding of the world, in order to robustly minimize harm across distributional shifts.  
