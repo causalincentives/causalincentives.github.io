@@ -1,5 +1,5 @@
 # Papers
-**[Human Control: Definitions and Algorithms](https://drive.google.com/file/d/19SNf8cBVsbt8gZXXyFVK1RaBk_FmalT7/view?usp=sharing)**:
+**[Human Control: Definitions and Algorithms](https://arxiv.org/abs/2305.19861)**:
 We study corrigibility, an alternative called counterfactual vigilance, the assurances they offer for human autonomy, and the algorithms that can be used to obtain them.
 *Ryan Carey, Tom Everitt*  
 UAI, 2023
