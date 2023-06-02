@@ -1,6 +1,6 @@
 # Papers
 **[Human Control: Definitions and Algorithms](https://arxiv.org/abs/2305.19861)**:
-We study corrigibility, an alternative called counterfactual vigilance, the assurances they offer for human autonomy, and the algorithms that can be used to obtain them.
+We study definitions of human control, including variants of corrigibility and alignment, the assurances they offer for human autonomy, and the algorithms that can be used to obtain them.
 *Ryan Carey, Tom Everitt*  
 UAI, 2023
 
@@ -28,7 +28,6 @@ AAAI-22
 Presents a complete graphical criterion for value of information in influence diagrams with more than one decision node, along with ID homorphisms and trees of systems.  
 *Chris van Merwijk\*, Ryan Carey\*, Tom Everitt*  
 AAAI-22
-
 
 **[Why Fair Labels Can Yield Unfair Predictions: Graphical Conditions for Introduced Unfairness](https://arxiv.org/abs/2202.10816)**:
 When is unfairness incentivised? Perhaps surprisingly, unfairness can be incentivized even when labels are completely fair.  
@@ -95,3 +94,28 @@ IJCAI AI Safety Workshop, 2019
 * **[Catalin Mitelut](https://www.linkedin.com/in/catalin-mitelut-9436131a5)**: Zurich
 * **[Sebastian Benthall](https://sbenthall.net/)**: New York University
 * **[Phillip Lippe](https://phlippe.github.io/)**: University of Amsterdam
+
+# Learn more and get involved
+
+If you find our work interesting, this post has some pointers for further reading and ways to get involved.
+
+## Background readings
+
+Our work builds on both the causality and the AGI safety literature. To be able to contribute to this area of research, you would need a reasonably deep understanding of both.
+
+### Causality
+
+An accessible introduction to causality is [The Book of Why](https://www.penguin.co.uk/books/289825/the-book-of-why-by-judea-pearl-and-dana-mackenzie/9780141982410). The next step is [A Primer](http://bayes.cs.ucla.edu/PRIMER/), which introduces the formal frameworks, along with plenty of exercises. The deepest and most detailed account is [Causality](http://bayes.cs.ucla.edu/BOOK-2K/), but it’s not an easy read (chapters 1, 3, and 7 are the most important).
+
+### AGI Safety
+
+The book that initiated the field is [Superintelligence](https://global.oup.com/academic/product/superintelligence-9780199678112?cc%3Dus%26lang%3Den%26). It remains a good read, though it has since been complemented by books such as [Human Compatible](https://people.eecs.berkeley.edu/~russell/hc.html), overview papers like [Is Power-Seeking AI an Existential Risk](https://arxiv.org/abs/2206.13353), [AGI safety literature review](https://arxiv.org/abs/1805.01109), [Artificial Intelligence, Values and Alignment](https://arxiv.org/abs/2001.09768), and blog posts like [Without specific countermeasures](https://www.alignmentforum.org/posts/pRkFkzwKZ2zfa3R6H/without-specific-countermeasures-the-easiest-path-to), and [What Failure Looks like](https://www.alignmentforum.org/posts/HBxe6wdjxK239zajf/what-failure-looks-like).
+
+There are also good online courses on the topic, such as the [AGI Safety Fundamentals Course](https://aisafetyfundamentals.com/) and the [ML Safety Course](https://course.mlsafety.org/).
+
+## Getting involved
+
+With this background you should be able to read our technical papers above. Please reach out to Tom if you are working on a related project and would like to join our meetings.
+
+In short, we offer a friendly community and a promising research direction for a positive post-AGI future. Welcome!
+
