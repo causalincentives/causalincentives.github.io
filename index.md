@@ -97,7 +97,7 @@ IJCAI AI Safety Workshop, 2019
 
 # Learn more and get involved
 
-If you find our work interesting, this post has some pointers for further reading and ways to get involved.
+If you find our work interesting, here are some pointers for further reading and ways to get involved.
 
 ## Background readings
 
