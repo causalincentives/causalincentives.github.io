@@ -1,6 +1,6 @@
 # Papers
 **[Honesty Is the Best Policy: Defining and Mitigating AI Deception](./pdfs/deception-ward-2023.pdf)**:
-Formal definition of intent and deception and graphical criteria. RL and LM experiments to illustrate.  
+Formal definition of intent and deception and graphical criteria. RL and LM experiments to illustrate.
 *Francis Rhys Ward, Tom Everitt, Francesco Belardinelli, Francesca Toni*. 2023.
 
 **[Human Control: Definitions and Algorithms](https://arxiv.org/abs/2305.19861)**:
