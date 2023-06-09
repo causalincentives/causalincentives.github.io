@@ -86,7 +86,6 @@ IJCAI AI Safety Workshop, 2019
 * **[Chris van Merwijk](https://www.fhi.ox.ac.uk/team/chris-van-merwijk/)**: Carnegie Mellon University
 * **[Lewis Hammond](http://www.cs.ox.ac.uk/people/lewis.hammond/)**: University of Oxford, Cooperative AI Foundation
 * **[James Fox](http://www.cs.ox.ac.uk/people/james.fox/)**: University of Oxford
-* **[Zac Kenton](https://zackenton.github.io/)**: DeepMind
 * **[Ramana Kumar](https://scholar.google.co.uk/citations?user=OyX1-qYAAAAJ&hl=en)**: DeepMind
 * **[Sebastian Farquhar](https://sebastianfarquhar.com/)**: University of Oxford, DeepMind
 * **[Jon Richens](https://scholar.google.com/citations?user=VtfYF3EAAAAJ&hl=en)**: DeepMind
