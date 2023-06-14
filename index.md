@@ -29,7 +29,7 @@ How do you tell an ML system to optimise an objective, but not by any means? E.g
 AAAI-22
 
 **[A Complete Criterion for Value of Information in Soluble Influence Diagrams](https://arxiv.org/abs/2202.11629)**:
-Presents a complete graphical criterion for value of information in influence diagrams with more than one decision node, along with ID homorphisms and trees of systems.  
+Presents a complete graphical criterion for value of information in influence diagrams with more than one decision node, along with ID homomorphisms and trees of systems.  
 *Chris van Merwijk\*, Ryan Carey\*, Tom Everitt*  
 AAAI-22
 
