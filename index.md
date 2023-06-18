@@ -1,4 +1,7 @@
 # Papers
+**[Towards Causal Foundations of Safe AGI](https://www.alignmentforum.org/s/pcdHisDEGLbxrbSHD)** is a blog post sequence describing how our research fits together, and building on our [AAAI tutorial](https://aaai-23.aaai.org/aaai23tutorials/#:~:text=at%20ICLR%202021.-,TSQP2%3A%20Towards%20Causal%20Foundations%20of%20Safe%20AI,-Tom%20Everitt%2C%20Lewis).  
+The Alignment Forum, 2023.
+
 **[Honesty Is the Best Policy: Defining and Mitigating AI Deception](./pdfs/deception-ward-2023.pdf)**:
 Formal definition of intent and deception and graphical criteria. RL and LM experiments to illustrate.
 *Francis Rhys Ward, Tom Everitt, Francesco Belardinelli, Francesca Toni*. 2023.
