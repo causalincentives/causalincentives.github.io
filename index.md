@@ -2,6 +2,11 @@
 **[Towards Causal Foundations of Safe AGI](https://www.alignmentforum.org/s/pcdHisDEGLbxrbSHD)** is a blog post sequence describing how our research fits together, and building on our [AAAI tutorial](https://aaai-23.aaai.org/aaai23tutorials/#:~:text=at%20ICLR%202021.-,TSQP2%3A%20Towards%20Causal%20Foundations%20of%20Safe%20AI,-Tom%20Everitt%2C%20Lewis).  
 The Alignment Forum, 2023.
 
+**[On Imperfect Recall in Multi-Agent Influence Diagrams](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?TARK2023.17.pdf)**:
+Extends the theory of multi-agent influence diagrams (and causal games) to cover imperfect recall, mixed policies, correlated equilibria, and complexity results.
+*James Fox, Matt MacDermott, Lewis Hammond, Paul Harrenstein, Alessandro Abate, Michael Wooldridge*  
+TARK, 2023 (Best Paper Award)
+
 **[Honesty Is the Best Policy: Defining and Mitigating AI Deception](./pdfs/deception-ward-2023.pdf)**:
 Formal definition of intent and deception and graphical criteria. RL and LM experiments to illustrate.
 *Francis Rhys Ward, Tom Everitt, Francesco Belardinelli, Francesca Toni*. 2023.
