@@ -2,6 +2,11 @@
 **[Towards Causal Foundations of Safe AGI](https://www.alignmentforum.org/s/pcdHisDEGLbxrbSHD)** is a blog post sequence describing how our research fits together, and building on our [AAAI tutorial](https://aaai-23.aaai.org/aaai23tutorials/#:~:text=at%20ICLR%202021.-,TSQP2%3A%20Towards%20Causal%20Foundations%20of%20Safe%20AI,-Tom%20Everitt%2C%20Lewis).  
 The Alignment Forum, 2023.
 
+**[Characterising Decision Theories with Mechanised Causal Graphs](https://arxiv.org/abs/2307.10987)**:
+Shows that mechanised causal graphs can be used to cleanly define different decision theories. 
+*Matt MacDermott, Tom Everitt, Francesco Belardinelli*  
+arXiv, 2023
+
 **[On Imperfect Recall in Multi-Agent Influence Diagrams](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?TARK2023.17.pdf)**:
 Extends the theory of multi-agent influence diagrams (and causal games) to cover imperfect recall, mixed policies, correlated equilibria, and complexity results.
 *James Fox, Matt MacDermott, Lewis Hammond, Paul Harrenstein, Alessandro Abate, Michael Wooldridge*  
