@@ -14,7 +14,7 @@ TARK, 2023 (Best Paper Award)
 
 **[Honesty Is the Best Policy: Defining and Mitigating AI Deception](./pdfs/deception-ward-2023.pdf)**:
 Formal definition of intent and deception and graphical criteria. RL and LM experiments to illustrate.
-*Francis Rhys Ward, Tom Everitt, Francesco Belardinelli, Francesca Toni*. 2023.
+*Francis Rhys Ward, Tom Everitt, Francesco Belardinelli, Francesca Toni*. NeurIPS, 2023.
 
 **[Human Control: Definitions and Algorithms](https://arxiv.org/abs/2305.19861)**:
 We study definitions of human control, including variants of corrigibility and alignment, the assurances they offer for human autonomy, and the algorithms that can be used to obtain them.
