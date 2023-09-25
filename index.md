@@ -1,5 +1,5 @@
 # Papers
-**[Towards Causal Foundations of Safe AGI](https://www.alignmentforum.org/s/pcdHisDEGLbxrbSHD)** is a blog post sequence describing how our research fits together, and building on our UAI ([slides](pdfs/uai-2023-tutorial.pdf)) and AAAI tutorials, and UCL ELLIS talk [video](https://www.youtube.com/watch?v=FYTJui0MC24).  
+**[Towards Causal Foundations of Safe AGI](https://www.alignmentforum.org/s/pcdHisDEGLbxrbSHD)** is a blog post sequence describing how our research fits together, and building on our UAI tutorial ([slides](pdfs/uai-2023-tutorial.pdf), [video](https://www.youtube.com/watch?v=SvK-bV5NWhg)). Previous versions at AAAI and UCL ELLIS [video](https://www.youtube.com/watch?v=FYTJui0MC24).  
 The Alignment Forum, 2023.
 
 **[Characterising Decision Theories with Mechanised Causal Graphs](https://arxiv.org/abs/2307.10987)**:
