@@ -12,7 +12,7 @@ Extends the theory of multi-agent influence diagrams (and causal games) to cover
 *James Fox, Matt MacDermott, Lewis Hammond, Paul Harrenstein, Alessandro Abate, Michael Wooldridge*  
 TARK, 2023 (Best Paper Award)
 
-**[Honesty Is the Best Policy: Defining and Mitigating AI Deception](./pdfs/deception-ward-2023.pdf)**:
+**[Honesty Is the Best Policy: Defining and Mitigating AI Deception](https://arxiv.org/abs/2312.01350)**:
 Formal definition of intent and deception and graphical criteria. RL and LM experiments to illustrate.
 *Francis Rhys Ward, Tom Everitt, Francesco Belardinelli, Francesca Toni*.  
 NeurIPS, 2023.
