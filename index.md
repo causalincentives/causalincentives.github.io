@@ -2,6 +2,11 @@
 **[Towards Causal Foundations of Safe AGI](https://www.alignmentforum.org/s/pcdHisDEGLbxrbSHD)** is a blog post sequence describing how our research fits together, and building on our UAI tutorial ([slides](pdfs/uai-2023-tutorial.pdf), [video](https://www.youtube.com/watch?v=SvK-bV5NWhg)). Previous versions at AAAI and UCL ELLIS [video](https://www.youtube.com/watch?v=FYTJui0MC24).  
 The Alignment Forum, 2023.
 
+**[The Reasons that Agents Act: Intention and Instrumental Goals](https://arxiv.org/abs/2402.07221)**:
+Formalises intent in causal models and connects it with a behavioural characterisation that can be applied to LLMs.  
+*Francis Rhys Ward, Matt MacDermott, Francesco Belardinelli, Francesca Toni, Tom Everitt*.  
+AAMAS, 2024
+
 **[Characterising Decision Theories with Mechanised Causal Graphs](https://arxiv.org/abs/2307.10987)**:
 Shows that mechanised causal graphs can be used to cleanly define different decision theories. 
 *Matt MacDermott, Tom Everitt, Francesco Belardinelli*  
@@ -9,7 +14,7 @@ arXiv, 2023
 
 **[On Imperfect Recall in Multi-Agent Influence Diagrams](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?TARK2023.17.pdf)**:
 Extends the theory of multi-agent influence diagrams (and causal games) to cover imperfect recall, mixed policies, correlated equilibria, and complexity results.
-*James Fox, Matt MacDermott, Lewis Hammond, Paul Harrenstein, Alessandro Abate, Michael Wooldridge*  
+*James Fox, Matt MacDermott, Lewis Hammond, Paul Harrenstein, Alessandro Abate, Michael Wooldridge*.  
 TARK, 2023 (Best Paper Award)
 
 **[Honesty Is the Best Policy: Defining and Mitigating AI Deception](https://arxiv.org/abs/2312.01350)**:
