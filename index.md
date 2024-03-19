@@ -121,11 +121,10 @@ IJCAI AI Safety Workshop, 2019
 * **Damiano Fornasiere** University of Barcelona
 * **Pietro Greiner** University of Barcelona
 
+
 ## Learn more
 
-If you find our work interesting, here are some pointers for background reading.
-
-Our work builds on both the causality and the AGI safety literature. To be able to contribute to this area of research, you would need a reasonably deep understanding of both.
+Our work builds on both the causality and the AGI safety literature. Below are some pointers to background readings in each.
 
 ### Causality
 
@@ -137,9 +136,8 @@ The book that initiated the field is [Superintelligence](https://global.oup.com/
 
 There are also good online courses on the topic, such as the [AGI Safety Fundamentals Course](https://aisafetyfundamentals.com/) and the [ML Safety Course](https://course.mlsafety.org/).
 
+
 ## Getting involved
 
-With this background you should be able to read our technical papers above. Please reach out to Tom if you are working on a related project and would like to join our meetings.
-
-In short, we offer a friendly community and a promising research direction for a positive post-AGI future. Welcome!
+We are a friendly community with a promising research direction for a positive post-AGI future. Please reach out to Tom if you are working on a related topic and would like to join our meetings.
 
