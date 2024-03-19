@@ -1,6 +1,8 @@
+## Introduction
+
 For an accessible overview of of our work, see our blogpost sequence **[Towards Causal Foundations of Safe AGI](https://www.alignmentforum.org/s/pcdHisDEGLbxrbSHD)**. It builds on our UAI tutorial ([slides](pdfs/uai-2023-tutorial.pdf), [video](https://www.youtube.com/watch?v=SvK-bV5NWhg)).
 
-# Papers
+## Papers
 
 **[Robust agents learn causal world models](https://arxiv.org/abs/2402.10877)** shows that a causal model is necessary for robust generalisation under distributional shifts.  
 *Jon Richens, Tom Everitt*.  
@@ -94,7 +96,7 @@ IJCAI AI Safety Workshop, 2019
 *(\* denotes equal contribution)*
 
 
-# Software
+## Software
 
 **[pycid](https://github.com/causalincentives/pycid)**: A Python implementation of causal influence diagrams, built on [pgmpy](https://pgmpy.org/).
 
@@ -102,7 +104,7 @@ IJCAI AI Safety Workshop, 2019
 
 
 
-# Working group members
+## Working group members
 
 * **[Tom Everitt](https://www.tomeveritt.se/)**: Google DeepMind
 * **[Ryan Carey](https://www.fhi.ox.ac.uk/team/ryan-carey/)**: University of Oxford
@@ -119,11 +121,9 @@ IJCAI AI Safety Workshop, 2019
 * **Damiano Fornasiere** University of Barcelona
 * **Pietro Greiner** University of Barcelona
 
-# Learn more and get involved
+## Learn more
 
-If you find our work interesting, here are some pointers for further reading and ways to get involved.
-
-## Background readings
+If you find our work interesting, here are some pointers for background reading.
 
 Our work builds on both the causality and the AGI safety literature. To be able to contribute to this area of research, you would need a reasonably deep understanding of both.
 
