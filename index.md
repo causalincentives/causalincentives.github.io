@@ -1,6 +1,6 @@
 ## Introduction
 
-For an accessible overview of of our work, see our blogpost sequence **[Towards Causal Foundations of Safe AGI](https://www.alignmentforum.org/s/pcdHisDEGLbxrbSHD)**. It builds on our UAI tutorial ([slides](pdfs/uai-2023-tutorial.pdf), [video](https://www.youtube.com/watch?v=SvK-bV5NWhg)).
+For an accessible overview of of our work, see our blogpost sequence **[Towards Causal Foundations of Safe AGI](https://www.alignmentforum.org/s/pcdHisDEGLbxrbSHD)**. It builds on our UAI 2023 tutorial ([slides](pdfs/uai-2023-tutorial.pdf), [video](https://www.youtube.com/watch?v=SvK-bV5NWhg)).
 
 ## Papers
 
