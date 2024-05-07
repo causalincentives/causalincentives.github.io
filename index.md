@@ -4,7 +4,7 @@ For an accessible overview of of our work, see our blogpost sequence **[Towards 
 
 ## Papers
 
-**[Robust agents learn causal world models](https://arxiv.org/abs/2402.10877)** ([tweet summary](https://twitter.com/jonathanrichens/status/1759607662528942090)) shows that a causal model is necessary for robust generalisation under distributional shifts.  
+**[Robust agents learn causal world models](https://arxiv.org/abs/2402.10877)** ([tweet summary](https://twitter.com/jonathanrichens/status/1759607662528942090), [slides](pdfs/iclr-2024-robust.pdf)) shows that a causal model is necessary for robust generalisation under distributional shifts.  
 *Jon Richens, Tom Everitt*.  
 ICLR, 2024
 
