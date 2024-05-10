@@ -6,7 +6,7 @@ For an accessible overview of of our work, see our blogpost sequence **[Towards 
 
 **[Robust agents learn causal world models](https://arxiv.org/abs/2402.10877)** ([tweet summary](https://twitter.com/jonathanrichens/status/1759607662528942090), [slides](pdfs/iclr-2024-robust.pdf)) shows that a causal model is necessary for robust generalisation under distributional shifts.  
 *Jon Richens, Tom Everitt*.  
-ICLR, 2024
+ICLR, 2024 (Honorable mention outstanding paper award)
 
 **[The Reasons that Agents Act: Intention and Instrumental Goals](https://arxiv.org/abs/2402.07221)** ([tweet summary](https://twitter.com/F_Rhys_Ward/status/1760360115251601796)):
 Formalises intent in causal models and connects it with a behavioural characterisation that can be applied to LLMs.  
