@@ -4,6 +4,10 @@ For an accessible overview of of our work, see our blogpost sequence **[Towards 
 
 ## Papers
 
+**[Measuring Goal-directedness](https://arxiv.org/abs/2412.04758)** proposes MEG (Maximum Entropy Goal-directedness): a framework for measuring goal-directedness in causal models & MDPs.  
+Matt MacDermott, James Fox, Francesco Belardinelli, Tom Everitt  
+NeurIPS, 2024 (Spotlight)
+
 **[Robust agents learn causal world models](https://arxiv.org/abs/2402.10877)** ([tweet summary](https://twitter.com/jonathanrichens/status/1759607662528942090), [slides](pdfs/iclr-2024-robust.pdf)) shows that a causal model is necessary for robust generalisation under distributional shifts.  
 *Jon Richens, Tom Everitt*.  
 ICLR, 2024 (Honorable mention outstanding paper award)
