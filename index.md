@@ -4,6 +4,10 @@ For an accessible overview of of our work, see our blogpost sequence **[Towards 
 
 ## Papers
 
+**[Higher-Order Belief in Incomplete Information MAIDs](https://arxiv.org/abs/2503.06323)** Adds subjective beliefs, and beliefs about beliefs etc, to multi-agent influence diagrams.  
+Jack Foxabbott, Rohan Subramani, Francis Rhys Ward  
+AAMAS, 2025
+
 **[Measuring Goal-directedness](https://arxiv.org/abs/2412.04758)** proposes MEG (Maximum Entropy Goal-directedness): a framework for measuring goal-directedness in causal models & MDPs.  
 Matt MacDermott, James Fox, Francesco Belardinelli, Tom Everitt  
 NeurIPS, 2024 (Spotlight)
