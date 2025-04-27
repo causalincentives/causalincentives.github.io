@@ -4,6 +4,10 @@ For an accessible overview of of our work, see our blogpost sequence **[Towards 
 
 ## Papers
 
+**[Evaluating the Goal-Directedness of Large Language Models](https://arxiv.org/abs/2504.11844)** Establishes a notion of goal-directedness for LLMs that is empirically predictive and consistent across tasks.  
+Tom Everitt, Cristina Garbacea, Alexis Bellot, Jonathan Richens, Henry Papadatos, Siméon Campos, Rohin Shah.  
+arXiv, 2025
+
 **[Higher-Order Belief in Incomplete Information MAIDs](https://arxiv.org/abs/2503.06323)** Adds subjective beliefs, and beliefs about beliefs etc, to multi-agent influence diagrams.  
 Jack Foxabbott, Rohan Subramani, Francis Rhys Ward  
 AAMAS, 2025
