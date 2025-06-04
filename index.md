@@ -4,6 +4,14 @@ For an accessible overview of of our work, see our blogpost sequence **[Towards 
 
 ## Papers
 
+**[General agents need world models](https://arxiv.org/abs/2506.01622)** shows that task-general agents need a predictive (not necessarily causal) model of the world.  
+Jonathan Richens, David Abel, Alexis Bellot, Tom Everitt  
+ICML, 2025
+
+**[The Limits of Predicting Agents from Behaviour](https://arxiv.org/abs/2506.02923)** uses causal transportability to explore when we can trust black-box agents based on their past behaviour.  
+Alexis Bellot, Jonathan Richens, Tom Everitt  
+ICML, 2025
+
 **[Evaluating the Goal-Directedness of Large Language Models](https://arxiv.org/abs/2504.11844)** Establishes a notion of goal-directedness for LLMs that is empirically predictive and consistent across tasks.  
 Tom Everitt, Cristina Garbacea, Alexis Bellot, Jonathan Richens, Henry Papadatos, Siméon Campos, Rohin Shah.  
 arXiv, 2025
