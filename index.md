@@ -4,7 +4,7 @@ For an accessible overview of of our work, see our blogpost sequence **[Towards 
 
 ## Papers
 
-**[Incentives for Responsiveness, Instrumental Control and Impact]([https://arxiv.org/abs/2506.01622](https://arxiv.org/abs/2001.07118)** journal version of AI:ACP, introducing impact incentives.  
+**[Incentives for Responsiveness, Instrumental Control and Impact](https://arxiv.org/abs/2001.07118)** journal version of AI:ACP, introducing impact incentives.  
 Ryan Carey, Eric Langlois, Chris van Merwijk, Shane Legg, Tom Everitt 
 Artificial Intelligence, 2025
 
