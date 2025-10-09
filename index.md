@@ -163,5 +163,4 @@ There are also good online courses on the topic, such as the [AGI Safety Fundame
 
 ## Getting involved
 
-We are a friendly community with a promising research direction for a positive post-AGI future. Please reach out to Tom if you are working on a related topic and would like to join our meetings.
-
+We are currently not meeting actively.
